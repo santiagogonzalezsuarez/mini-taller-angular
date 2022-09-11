@@ -1,6 +1,7 @@
 <p>home works!</p>
 <a href="/cosa" mat-raised-button>Cosa</a>
-
+<a href="javascript:void(0)" mat-raised-button (click)="openDialog()">Abrir diálogo</a>
+<div *ngIf="favouriteAnimal != null">Favourite animal: {{favouriteAnimal}}</div>
 <p>
   Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse eveniet facilis
   voluptates consequuntur vitae, dignissimos, perspiciatis consequatur aliquid
