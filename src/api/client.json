@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Pepe",
+    "surname": "Do",
+    "email": "pepe@do.com",
+    "phone": 6527255784
+  },
+  {
+    "id": 2,
+    "name": "Pedro",
+    "surname": "Re",
+    "email": "pedro@re.com",
+    "phone": 6522256784
+  },
+  {
+    "id": 1,
+    "name": "Pepi",
+    "surname": "Mi",
+    "email": "pepi@mi.com",
+    "phone": 6522255794
+  },
+  {
+    "id": 1,
+    "name": "Pepa",
+    "surname": "Fa",
+    "email": "pepa@fa.com",
+    "phone": 6522255788
+  }
+]

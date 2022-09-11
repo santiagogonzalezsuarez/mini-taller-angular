@@ -1,0 +1,10 @@
+body {
+  display: flex;
+  flex-direction: column;
+  main {
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+    flex: 1;
+  }
+}
